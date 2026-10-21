@@ -12,7 +12,7 @@ The dataset used is `northern_surface_temperature.csv`. It contains historical t
 
 ## Visualizations
 **1. Temperature Anomalies Heatmap (by Month):**
-![Heatmap](temperature_change.png)
+![Heatmap](heatmap.png)
 
 **2. Average Temperature Trend Over Time:**
 ![Trend Line](trend_line.png)
